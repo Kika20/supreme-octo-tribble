@@ -1,2 +1,2 @@
 # supreme-octo-tribble
-# this file contains teh details of my project
+# this file contains the details of my project
